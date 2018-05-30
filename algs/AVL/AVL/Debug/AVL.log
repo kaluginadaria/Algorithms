@@ -1,0 +1,3 @@
+﻿  AVL.cpp
+c:\users\dashu\source\repos\avl\avl\avl.cpp(224): warning C4715: GetKStat<int>: значение возвращается не при всех путях выполнения
+  AVL.vcxproj -> C:\Users\dashu\source\repos\AVL\Debug\AVL.exe

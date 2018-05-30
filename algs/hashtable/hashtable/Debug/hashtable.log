@@ -1,0 +1,33 @@
+﻿  hashtable.cpp
+c:\users\dashu\source\repos\hashtable\hashtable\hashtable.cpp(77): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\dashu\source\repos\hashtable\hashtable\hashtable.cpp(73): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\dashu\source\repos\hashtable\hashtable\hashtable.cpp(187): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool HashTable<std::string>::Has(const T &)"
+          with
+          [
+              T=std::string
+          ]
+  c:\users\dashu\source\repos\hashtable\hashtable\hashtable.cpp(178): note: выполняется компиляция ссылки на экземпляр шаблон класс "HashTable<std::string>"
+c:\users\dashu\source\repos\hashtable\hashtable\hashtable.cpp(102): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\dashu\source\repos\hashtable\hashtable\hashtable.cpp(95): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\dashu\source\repos\hashtable\hashtable\hashtable.cpp(183): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool HashTable<std::string>::Add(const T &)"
+          with
+          [
+              T=std::string
+          ]
+c:\users\dashu\source\repos\hashtable\hashtable\hashtable.cpp(131): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\dashu\source\repos\hashtable\hashtable\hashtable.cpp(127): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\dashu\source\repos\hashtable\hashtable\hashtable.cpp(185): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool HashTable<std::string>::Delete(const T &)"
+          with
+          [
+              T=std::string
+          ]
+c:\users\dashu\source\repos\hashtable\hashtable\hashtable.cpp(162): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\dashu\source\repos\hashtable\hashtable\hashtable.cpp(150): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\dashu\source\repos\hashtable\hashtable\hashtable.cpp(97): note: выполняется компиляция ссылки на экземпляр шаблон функции "void HashTable<std::string>::growTable(void)"
+  c:\users\dashu\source\repos\hashtable\hashtable\hashtable.cpp(53): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\dashu\source\repos\hashtable\hashtable\hashtable.cpp(178): note: выполняется компиляция ссылки на экземпляр шаблон функции "HashTable<std::string>::HashTable(const T &,const T &,int)"
+          with
+          [
+              T=std::string
+          ]
+  hashtable.vcxproj -> C:\Users\dashu\source\repos\hashtable\Debug\hashtable.exe

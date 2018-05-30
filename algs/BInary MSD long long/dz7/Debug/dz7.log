@@ -1,0 +1,9 @@
+﻿  Пропуск... (изменения не обнаружены)
+  stdafx.cpp
+  dz7.cpp
+c:\users\dashu\source\repos\dz7\dz7\dz7.cpp(5): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\dashu\source\repos\dz7\dz7\dz7.cpp(20): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+c:\users\dashu\source\repos\dz7\dz7\dz7.cpp(57): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+c:\users\dashu\source\repos\dz7\dz7\dz7.cpp(58): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+c:\users\dashu\source\repos\dz7\dz7\dz7.cpp(64): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  dz7.vcxproj -> C:\Users\dashu\source\repos\dz7\Debug\dz7.exe

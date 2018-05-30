@@ -1,0 +1,3 @@
+﻿  dz2.cpp
+c:\users\dashu\source\repos\dz2\dz2\dz2.cpp(27): warning C4715: BinSearch: значение возвращается не при всех путях выполнения
+  dz2.vcxproj -> c:\Users\dashu\source\repos\dz2\Debug\dz2.exe
